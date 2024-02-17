@@ -44,7 +44,7 @@ main .personagem.selecionado{
     z-index: 1;
 }
 
-.conteudo .nome.personagem {
+.conteudo .nome-personagem {
     color: #ffffff;
     font-family: "Secular One";
     font-size: 48px;
