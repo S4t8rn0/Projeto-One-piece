@@ -38,14 +38,19 @@
 }
 
 @media (max-width: 425px) {
-    /*main .personagem .imagem{
-        height: auto;
-        
-    }*/
+    .personagens .personagem .imagem-descentralizada{
+        height: 85%;
+        width: max-content;
+        margin-left: -500px;
+    }
+
+    .personagens .personagem .imagem{
+        height: 85%;
+    }
 
     .conteudo .logo{
-        width: 170px;
-        height: 75px;
+        width: 200px;
+        height: 69px;
     }
 
     .conteudo {
